@@ -1,0 +1,4 @@
+﻿  RSA_Key_Generation.c
+b:\ubuntu home\matthew\programminginc\rsa_key_generation\src\rsa_key_generation.c(64): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+b:\ubuntu home\matthew\programminginc\rsa_key_generation\src\rsa_key_generation.c(49): warning C4715: 'gen_D': not all control paths return a value
+  ConsoleApplication1.vcxproj -> B:\Programming\Cpp\ConsoleApplication1\Debug\ConsoleApplication1.exe

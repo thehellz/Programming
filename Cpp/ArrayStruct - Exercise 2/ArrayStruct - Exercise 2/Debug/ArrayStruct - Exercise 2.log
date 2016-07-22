@@ -1,0 +1,3 @@
+﻿  Source1.cpp
+b:\programming\cpp\arraystruct - exercise 2\arraystruct - exercise 2\source1.cpp(14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ArrayStruct - Exercise 2.vcxproj -> B:\Programming\Cpp\ArrayStruct - Exercise 2\Debug\ArrayStruct - Exercise 2.exe
